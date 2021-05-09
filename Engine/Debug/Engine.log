@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Engine.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+cl : wiersz polecenia warning D9035: Opcja "Gm" jest przestarzała i będzie usunięta w przyszłych wydaniach
+  graphicsclass.cpp
+E:\University\Real Time Graphics\Assignment\MouseControl\Engine\graphicsclass.cpp(60,22): warning C4316: 'D3DClass': obiekt przydzielony na stosie, może nie być wyrównany 16
+E:\University\Real Time Graphics\Assignment\MouseControl\Engine\graphicsclass.cpp(116,28): warning C4316: 'CameraClass': obiekt przydzielony na stosie, może nie być wyrównany 16
+  Engine.vcxproj -> E:\University\Real Time Graphics\Assignment\MouseControl\Debug\SolarSystem.exe
