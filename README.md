@@ -20,3 +20,8 @@ Assets for the planet textures were taken from the NASA's website and they do no
 
 Video presentation:
 
+[![Video presentation](https://img.youtube.com/vi/HGcmWQNYFjA/maxresdefault.jpg)](https://youtu.be/HGcmWQNYFjA)
+
+
+Music used is not owned by me and belongs to the respective owners.
+Music taken from the game Spore, released by Maxis and published by EA.
